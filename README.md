@@ -1,5 +1,7 @@
 # Bots
-Curated list of resources on bots
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+===============
+> Curated list of resources on bots
 
 ## Platform Documentation
 * [Facebook messanger](https://developers.facebook.com/products/messenger/)
@@ -46,5 +48,9 @@ Curated list of resources on bots
 ## Communities
 * [Bots - Facebook group](https://www.facebook.com/groups/chatbot/)
 
+## License
 
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Vishnu Ks](http://www.vishnuks.com) has waived all copyright and related or neighboring rights to this work.
 
