@@ -3,6 +3,17 @@
 ===============
 > Curated list of resources on bots
 
+Table of Contents
+-----------------
+
+- [Platform Documentation](#platform-documentation)
+- [Tools for building bots](#tools-for-building bots)
+- [Libaries](#libaries)
+- [Bot stores](#bot-stores)
+- [Selected Tutorials](#selected-tutorials)
+- [Communities](#communities)
+
+
 ## Platform Documentation
 * [Facebook messanger](https://developers.facebook.com/products/messenger/)
 * [Slack](https://api.slack.com/bot-users)
@@ -24,6 +35,7 @@
 * [Gupshup](https://www.gupshup.io/developer/home) - Easiest & fastest way to build & deploy your bots on any channel.
 
 ## Libaries
+
 ### Facebook Messenger
 * [Go library](https://github.com/paked/messenger)
  
