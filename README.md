@@ -26,8 +26,8 @@ Curated list of resources on bots
 * [Go library](https://github.com/paked/messenger)
  
 ### Slack
-* [Official Slack client for node.js](https://github.com/slackhq/node-slack-client)
-* [Official Slack client for Python](https://github.com/slackhq/python-slackclient)
+* [node.js (Official)](https://github.com/slackhq/node-slack-client)
+* [Python (Official)](https://github.com/slackhq/python-slackclient)
 
 ### Telegram
 * [node.js](https://github.com/yagop/node-telegram-bot-api)
