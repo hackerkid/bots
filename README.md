@@ -7,7 +7,7 @@ Table of Contents
 -----------------
 
 - [Platform Documentation](#platform-documentation)
-- [Tools for building bots](#tools-for-building bots)
+- [Tools for building bots](#tools-for-building-bots)
 - [Libaries](#libaries)
 - [Bot stores](#bot-stores)
 - [Selected Tutorials](#selected-tutorials)
