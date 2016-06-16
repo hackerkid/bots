@@ -54,7 +54,7 @@ Table of Contents
 * [Go library](https://github.com/paked/messenger)
  
 ### Slack
-* [node.js (Official)](https://github.com/slackhq/node-slack-client)
+* [node.js (Official)](https://github.com/slackhq/node-slack-sdk)
 * [Python (Official)](https://github.com/slackhq/python-slackclient)
 
 ### Telegram
