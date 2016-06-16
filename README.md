@@ -56,6 +56,10 @@ Table of Contents
 
 ## Bot stores
 * [botlist](https://botlist.co/) - An App Store For Bots
+* [Slack Store](https://decentralizedweb.slack.com/apps) - The official Slack bot store
+* [Telegram Store](https://storebot.me/) - The official Telegram bot store
+* [Product Hunt](https://www.producthunt.com/topics/bots) - Product Hunt bot list
+* [Dashbot](http://www.dashbot.io/bots) - Dashbot bot directory
 
 ## Selected Tutorials
 * [The Complete Beginner’s Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca)
