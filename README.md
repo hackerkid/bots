@@ -22,6 +22,12 @@ Table of Contents
 * [Telegram](https://core.telegram.org/bots/api)
 * [Kik](https://dev.kik.com/#/home)
 * [Zulip](https://zulip.com/integrations/)
+* [HipChat](https://developer.atlassian.com/hipchat/getting-started)
+* [Skype](https://developer.microsoft.com/en-us/skype/bots)
+* [Cisco Spark](https://developer.ciscospark.com/getting-started.html)
+* [Microsoft Bot Framework](https://dev.botframework.com/)
+* [WeChat](https://admin.wechat.com/)
+* [VKontakt](https://new.vk.com/dev/bizmessages)
 
 ## AI or NLP Engines
 * [wit.ai ](https://wit.ai/) - Easily create text or voice based bots that humans can chat with.
