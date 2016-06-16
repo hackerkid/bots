@@ -8,8 +8,8 @@ Table of Contents
 -----------------
 
 - [Platform Documentation](#platform-documentation)
-- [Tools for building bots](#tools-for-building-bots)
-- [Libaries](#libaries)
+- [AI or NLP Engines](#ai-or-nlp-engines)
+- [Libraries](#libaries)
 - [Bot stores](#bot-stores)
 - [Selected Tutorials](#selected-tutorials)
 - [Communities](#communities)
@@ -23,8 +23,8 @@ Table of Contents
 * [Kik](https://dev.kik.com/#/home)
 * [Zulip](https://zulip.com/integrations/)
 
-## Tools for building bots
-* [wit.ai ](https://wit.ai/home) - Easily create text or voice based bots that humans can chat with.
+## AI or NLP Engines
+* [wit.ai ](https://wit.ai/) - Easily create text or voice based bots that humans can chat with.
 * [Botkit](https://howdy.ai/botkit/) - Botkit eases the process of designing and running bots that live inside Slack.
 * [api.ai](https://api.ai/) - Build brand-unique, natural language interactions for devices, applications and services.
 * [Text It](https://textit.in/) - Visually build SMS and voice apps to engage your customers.
