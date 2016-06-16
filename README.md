@@ -8,7 +8,7 @@ Table of Contents
 -----------------
 
 - [Platform Documentation](#platform-documentation)
-- [AI or NLP Engines](#ai-or-nlp-engines)
+- [Tools for building bots](#tools-for-building-bots)
 - [Libraries](#libaries)
 - [Bot stores](#bot-stores)
 - [Selected Tutorials](#selected-tutorials)
@@ -29,7 +29,7 @@ Table of Contents
 * [WeChat](https://admin.wechat.com/)
 * [VKontakt](https://new.vk.com/dev/bizmessages)
 
-## AI or NLP Engines
+## Tools for building bots
 * [wit.ai ](https://wit.ai/) - Easily create text or voice based bots that humans can chat with.
 * [Botkit](https://howdy.ai/botkit/) - Botkit eases the process of designing and running bots that live inside Slack.
 * [api.ai](https://api.ai/) - Build brand-unique, natural language interactions for devices, applications and services.
