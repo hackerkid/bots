@@ -41,7 +41,13 @@ Table of Contents
 * [Converse AI](http://www.converse.ai/) - Respond to customer questions instantly with intelligent chatbot technology.
 * [Gupshup](https://www.gupshup.io/developer/home) - Easiest & fastest way to build & deploy your bots on any channel.
 
-## Libaries
+## Libraries
+
+###General
+* [Qtypes](https://github.com/superscriptjs/qtypes) - Rule based Answer Type classification system in Node.js
+* [BotKit](https://github.com/howdyai/botkit) - Botkit is a toolkit for making bot applications
+* [Claudia Bot Builder](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda in minutes
+
 
 ### Facebook Messenger
 * [Go library](https://github.com/paked/messenger)
