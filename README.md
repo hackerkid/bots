@@ -63,6 +63,7 @@ Table of Contents
 * [How To Build Bots for Messenger](https://developers.facebook.com/blog/post/2016/04/12/bots-for-messenger/)
 * [Creating A Chat Bot](https://medium.freecodecamp.com/creating-a-chat-bot-42861e6a2acd#.32hmkqfq7)
 * [A beginner’s guide to your first bot](https://slackhq.com/a-beginner-s-guide-to-your-first-bot-97e5b0b7843d#.rreq2dp6r)
+* [Pair programming a Facebook Messenger Bot](https://www.youtube.com/watch?v=zFO1cRr5-qY)
  
 ## Communities
 * [Bots - Facebook group](https://www.facebook.com/groups/chatbot/)
