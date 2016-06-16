@@ -40,7 +40,7 @@ Table of Contents
 * [Dexter](https://rundexter.com/app/spreadsheet-bot) - Get a Slack bot that responds with answers from your own Google Sheet. 
 * [Converse AI](http://www.converse.ai/) - Respond to customer questions instantly with intelligent chatbot technology.
 * [Gupshup](https://www.gupshup.io/developer/home) - Easiest & fastest way to build & deploy your bots on any channel.
-
+* [Haven OnDemand](https://dev.havenondemand.com/apis) - They are similar APIs as that of watson, but far well documented   and have a freemium version. 
 ## Libraries
 
 ###General
