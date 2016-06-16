@@ -79,6 +79,7 @@ Table of Contents
 * [Bots - Facebook group](https://www.facebook.com/groups/chatbot/)
 * [UX for Bots](https://www.facebook.com/groups/uxforbots/)
 * [Chat Bot Magazine](https://chatbotsmagazine.com/)
+* [HH Bots - Facebook group](https://www.facebook.com/groups/hhbots/)
 
 ## License
 
