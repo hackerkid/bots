@@ -29,7 +29,7 @@ Table of Contents
 * [WeChat](https://admin.wechat.com/)
 * [VKontakt](https://new.vk.com/dev/bizmessages)
 
-## Tools for building bots
+## Tools for Building Bots
 * [wit.ai ](https://wit.ai/) - Easily create text or voice based bots that humans can chat with.
 * [Botkit](https://howdy.ai/botkit/) - Botkit eases the process of designing and running bots that live inside Slack.
 * [api.ai](https://api.ai/) - Build brand-unique, natural language interactions for devices, applications and services.
@@ -45,9 +45,9 @@ Table of Contents
 ## Libraries
 
 ###General
-* [Qtypes](https://github.com/superscriptjs/qtypes) - Rule based Answer Type classification system in Node.js
-* [BotKit](https://github.com/howdyai/botkit) - Botkit is a toolkit for making bot applications
-* [Claudia Bot Builder](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda in minutes
+* [Qtypes](https://github.com/superscriptjs/qtypes) - Rule based Answer Type classification system in Node.js.
+* [BotKit](https://github.com/howdyai/botkit) - Botkit is a toolkit for making bot applications.
+* [Claudia Bot Builder](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda in minutes.
 
 
 ### Facebook Messenger
@@ -62,11 +62,11 @@ Table of Contents
 * [PHP](https://github.com/irazasyed/telegram-bot-sdk)
 
 ## Bot stores
-* [botlist](https://botlist.co/) - An App Store For Bots
-* [Slack Store](https://decentralizedweb.slack.com/apps) - The official Slack bot store
-* [Telegram Store](https://storebot.me/) - The official Telegram bot store
-* [Product Hunt](https://www.producthunt.com/topics/bots) - Product Hunt bot list
-* [Dashbot](http://www.dashbot.io/bots) - Dashbot bot directory
+* [botlist](https://botlist.co/) - An App Store For Bots.
+* [Slack Store](https://decentralizedweb.slack.com/apps) - The official Slack bot store.
+* [Telegram Store](https://storebot.me/) - The official Telegram bot store.
+* [Product Hunt](https://www.producthunt.com/topics/bots) - Product Hunt bot list.
+* [Dashbot](http://www.dashbot.io/bots) - Dashbot bot directory.
 
 ## Selected Tutorials
 * [The Complete Beginner’s Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca)
