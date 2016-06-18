@@ -10,7 +10,7 @@ Table of Contents
 - [Platform Documentation](#platform-documentation)
 - [Tools For Building Bots](#tools-for-building-bots)
 - [Libraries](#libaries)
-- [Bot stores](#bot-stores)
+- [Bot Stores](#bot-stores)
 - [Selected Tutorials](#selected-tutorials)
 - [Communities](#communities)
 
@@ -61,7 +61,7 @@ Table of Contents
 * [node.js](https://github.com/yagop/node-telegram-bot-api)
 * [PHP](https://github.com/irazasyed/telegram-bot-sdk)
 
-## Bot stores
+## Bot Stores
 * [botlist](https://botlist.co/) - An App Store For Bots.
 * [Slack Store](https://decentralizedweb.slack.com/apps) - The official Slack bot store.
 * [Telegram Store](https://storebot.me/) - The official Telegram bot store.
