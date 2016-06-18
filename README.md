@@ -2,18 +2,15 @@ Bots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa8
 ===============
 > Curated list of resources on bots
 
-
-
 Table of Contents
 -----------------
 
 - [Platform Documentation](#platform-documentation)
 - [Tools For Building Bots](#tools-for-building-bots)
-- [Libraries](#libaries)
+- [Libraries](#libraries)
 - [Bot Stores](#bot-stores)
-- [Selected Tutorials](#selected-tutorials)
+- [Tutorials](#tutorials)
 - [Communities](#communities)
-
 
 ## Platform Documentation
 * [Facebook messanger](https://developers.facebook.com/products/messenger/)
@@ -34,7 +31,7 @@ Table of Contents
 * [Botkit](https://howdy.ai/botkit/) - Botkit eases the process of designing and running bots that live inside Slack.
 * [api.ai](https://api.ai/) - Build brand-unique, natural language interactions for devices, applications and services.
 * [Text It](https://textit.in/) - Visually build SMS and voice apps to engage your customers.
-* [Chatfuel](https://chatfuel.com/) - The intuitive bot builder with AI navigation.No coding required. 
+* [Chatfuel](https://chatfuel.com/) - The intuitive bot builder with AI navigation. No coding required. 
 * [Watson](http://www.ibm.com/cloud-computing/bluemix/watson/) - Bring the power of cognitive computing to your apps.
 * [Beep Boop](https://beepboophq.com/) - Beep Boop is a simple hosting platform for your Slack and Messenger bots.
 * [Dexter](https://rundexter.com/app/spreadsheet-bot) - Get a Slack bot that responds with answers from your own Google Sheet. 
@@ -44,21 +41,21 @@ Table of Contents
 
 ## Libraries
 
-###General
+### General
 * [Qtypes](https://github.com/superscriptjs/qtypes) - Rule based Answer Type classification system in Node.js.
 * [BotKit](https://github.com/howdyai/botkit) - Botkit is a toolkit for making bot applications.
 * [Claudia Bot Builder](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda in minutes.
 
 
 ### Facebook Messenger
-* [Go library](https://github.com/paked/messenger)
+* [Go](https://github.com/paked/messenger)
  
 ### Slack
-* [node.js (Official)](https://github.com/slackhq/node-slack-sdk)
+* [Node.js (Official)](https://github.com/slackhq/node-slack-sdk)
 * [Python (Official)](https://github.com/slackhq/python-slackclient)
 
 ### Telegram
-* [node.js](https://github.com/yagop/node-telegram-bot-api)
+* [Node.js](https://github.com/yagop/node-telegram-bot-api)
 * [PHP](https://github.com/irazasyed/telegram-bot-sdk)
 
 ## Bot Stores
@@ -68,19 +65,19 @@ Table of Contents
 * [Product Hunt](https://www.producthunt.com/topics/bots) - Product Hunt bot list.
 * [Dashbot](http://www.dashbot.io/bots) - Dashbot bot directory.
 
-## Selected Tutorials
-* [The Complete Beginner’s Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca)
-* [The Secret To Making Your Own Facebook Messenger Bot In Less Than 15 Minutes](https://chatbotsmagazine.com/have-15-minutes-create-your-own-facebook-messenger-bot-481a7db54892)
-* [How To Build Bots for Messenger](https://developers.facebook.com/blog/post/2016/04/12/bots-for-messenger/)
-* [Creating A Chat Bot](https://medium.freecodecamp.com/creating-a-chat-bot-42861e6a2acd#.32hmkqfq7)
-* [A beginner’s guide to your first bot](https://slackhq.com/a-beginner-s-guide-to-your-first-bot-97e5b0b7843d#.rreq2dp6r)
-* [Pair programming a Facebook Messenger Bot](https://www.youtube.com/watch?v=zFO1cRr5-qY)
+## Tutorials
+* [The Complete Beginner’s Guide To Chatbots.](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca).
+* [The Secret To Making Your Own Facebook Messenger Bot In Less Than 15 Minutes.](https://chatbotsmagazine.com/have-15-minutes-create-your-own-facebook-messenger-bot-481a7db54892)
+* [How To Build Bots for Messenger.](https://developers.facebook.com/blog/post/2016/04/12/bots-for-messenger/)
+* [Creating A Chat Bot.](https://medium.freecodecamp.com/creating-a-chat-bot-42861e6a2acd#.32hmkqfq7)
+* [A Beginner’s Guide To Your First Bot.](https://slackhq.com/a-beginner-s-guide-to-your-first-bot-97e5b0b7843d#.rreq2dp6r)
+* [Pair Programming a Facebook Messenger Bot.](https://www.youtube.com/watch?v=zFO1cRr5-qY)
  
 ## Communities
-* [Bots - Facebook group](https://www.facebook.com/groups/chatbot/)
-* [UX for Bots](https://www.facebook.com/groups/uxforbots/)
-* [Chat Bot Magazine](https://chatbotsmagazine.com/)
-* [HH Bots - Facebook group](https://www.facebook.com/groups/hhbots/)
+* [Bots](https://www.facebook.com/groups/chatbot/) - Facebook group.
+* [UX for Bots](https://www.facebook.com/groups/uxforbots/) - Facebook group.
+* [Chat Bot Magazine](https://chatbotsmagazine.com/) - Medium.
+* [HH Bots](https://www.facebook.com/groups/hhbots/) - Facebook group.
 
 ## License
 
