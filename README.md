@@ -80,6 +80,7 @@ Table of Contents
 * [UX for Bots](https://www.facebook.com/groups/uxforbots/) - Facebook group.
 * [Chat Bot Magazine](https://chatbotsmagazine.com/) - Medium.
 * [HH Bots](https://www.facebook.com/groups/hhbots/) - Facebook group.
+* [Messenger Platform Developer Community](https://www.facebook.com/groups/242384196138564/) - Facebook group.
 
 ## License
 
