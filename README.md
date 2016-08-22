@@ -60,6 +60,7 @@ Table of Contents
 
 ### Telegram
 * [Node.js](https://github.com/yagop/node-telegram-bot-api)
+* [Node.js](https://github.com/telegraf/telegraf)
 * [PHP](https://github.com/irazasyed/telegram-bot-sdk)
 
 ## Bot Stores
