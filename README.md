@@ -63,6 +63,7 @@ Table of Contents
 * [Node.js](https://github.com/telegraf/telegraf)
 * [PHP](https://github.com/irazasyed/telegram-bot-sdk)
 * [Python](https://github.com/python-telegram-bot/python-telegram-bot)
+* [C#](https://github.com/MrRoundRobin/telegram.bot) - Telegram Bot API client for C#
 
 ## Bot Stores
 * [botlist](https://botlist.co/) - An App Store For Bots.
