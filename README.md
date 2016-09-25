@@ -16,7 +16,7 @@ Table of Contents
 - [Communities](#communities)
 
 ## Platform Documentation
-* [Facebook messanger](https://developers.facebook.com/products/messenger/)
+* [Facebook messenger](https://developers.facebook.com/products/messenger/)
 * [Slack](https://api.slack.com/bot-users)
 * [Discord](https://blog.discordapp.com/the-robot-revolution-has-unofficially-begun/)
 * [Telegram](https://core.telegram.org/bots/api)
@@ -27,7 +27,7 @@ Table of Contents
 * [Cisco Spark](https://developer.ciscospark.com/getting-started.html)
 * [Microsoft Bot Framework](https://dev.botframework.com/)
 * [WeChat](https://admin.wechat.com/)
-* [VKontakt](https://new.vk.com/dev/bizmessages)
+* [VKontakte](https://new.vk.com/dev/bizmessages)
 
 ## Tools For Building Bots
 * [wit.ai ](https://wit.ai/) - Easily create text or voice based bots that humans can chat with.
