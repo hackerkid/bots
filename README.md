@@ -16,7 +16,7 @@ Table of Contents
 - [Communities](#communities)
 
 ## Platform Documentation
-* [Facebook messanger](https://developers.facebook.com/products/messenger/)
+* [Facebook messenger](https://developers.facebook.com/products/messenger/)
 * [Slack](https://api.slack.com/bot-users)
 * [Discord](https://blog.discordapp.com/the-robot-revolution-has-unofficially-begun/)
 * [Telegram](https://core.telegram.org/bots/api)
@@ -27,7 +27,7 @@ Table of Contents
 * [Cisco Spark](https://developer.ciscospark.com/getting-started.html)
 * [Microsoft Bot Framework](https://dev.botframework.com/)
 * [WeChat](https://admin.wechat.com/)
-* [VKontakt](https://new.vk.com/dev/bizmessages)
+* [VKontakte](https://new.vk.com/dev/bizmessages)
 
 ## Tools For Building Bots
 * [wit.ai ](https://wit.ai/) - Easily create text or voice based bots that humans can chat with.
@@ -63,13 +63,16 @@ Table of Contents
 * [Node.js](https://github.com/telegraf/telegraf)
 * [PHP](https://github.com/irazasyed/telegram-bot-sdk)
 * [Python](https://github.com/python-telegram-bot/python-telegram-bot)
+* [C#](https://github.com/MrRoundRobin/telegram.bot) - Telegram Bot API client for C#
 
 ## Bot Stores
+* [ChatBottle](https://chatbottle.co/) - Chatbots search engine
 * [botlist](https://botlist.co/) - An App Store For Bots.
 * [Slack Store](https://decentralizedweb.slack.com/apps) - The official Slack bot store.
 * [Telegram Store](https://storebot.me/) - The official Telegram bot store.
 * [Product Hunt](https://www.producthunt.com/topics/bots) - Product Hunt bot list.
 * [Dashbot](http://www.dashbot.io/bots) - Dashbot bot directory.
+* [Skype Bot Directory](https://bots.botframework.com/) - The official list of skype bots by Microsoft Bot Framework
 
 ## Tutorials
 * [The Complete Beginner’s Guide To Chatbots.](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca).
