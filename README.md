@@ -34,13 +34,13 @@ Table of Contents
 * [Botkit](https://howdy.ai/botkit/) - Botkit eases the process of designing and running bots that live inside Slack.
 * [api.ai](https://api.ai/) - Build brand-unique, natural language interactions for devices, applications and services.
 * [Text It](https://textit.in/) - Visually build SMS and voice apps to engage your customers.
-* [Chatfuel](https://chatfuel.com/) - The intuitive bot builder with AI navigation. No coding required. 
+* [Chatfuel](https://chatfuel.com/) - The intuitive bot builder with AI navigation. No coding required.
 * [Watson](http://www.ibm.com/cloud-computing/bluemix/watson/) - Bring the power of cognitive computing to your apps.
 * [Beep Boop](https://beepboophq.com/) - Beep Boop is a simple hosting platform for your Slack and Messenger bots.
-* [Dexter](https://rundexter.com/app/spreadsheet-bot) - Get a Slack bot that responds with answers from your own Google Sheet. 
+* [Dexter](https://rundexter.com/app/spreadsheet-bot) - Get a Slack bot that responds with answers from your own Google Sheet.
 * [Converse AI](http://www.converse.ai/) - Respond to customer questions instantly with intelligent chatbot technology.
 * [Gupshup](https://www.gupshup.io/developer/home) - Easiest & fastest way to build & deploy your bots on any channel.
-* [Haven OnDemand](https://dev.havenondemand.com/apis) - They are similar APIs as that of watson, but far well documented   and have a freemium version. 
+* [Haven OnDemand](https://dev.havenondemand.com/apis) - They are similar APIs as that of watson, but far well documented   and have a freemium version.
 
 ## Libraries
 
@@ -53,7 +53,7 @@ Table of Contents
 
 ### Facebook Messenger
 * [Go](https://github.com/paked/messenger)
- 
+
 ### Slack
 * [Node.js (Official)](https://github.com/slackhq/node-slack-sdk)
 * [Python (Official)](https://github.com/slackhq/python-slackclient)
@@ -64,6 +64,7 @@ Table of Contents
 * [PHP](https://github.com/irazasyed/telegram-bot-sdk)
 * [Python](https://github.com/python-telegram-bot/python-telegram-bot)
 * [C#](https://github.com/MrRoundRobin/telegram.bot)
+* [Go](https://github.com/tucnak/telebot)
 
 ## Bot Stores
 * [ChatBottle](https://chatbottle.co/) - Chatbots search engine
@@ -81,7 +82,7 @@ Table of Contents
 * [Creating A Chat Bot.](https://medium.freecodecamp.com/creating-a-chat-bot-42861e6a2acd#.32hmkqfq7)
 * [A Beginner’s Guide To Your First Bot.](https://slackhq.com/a-beginner-s-guide-to-your-first-bot-97e5b0b7843d#.rreq2dp6r)
 * [Pair Programming a Facebook Messenger Bot.](https://www.youtube.com/watch?v=zFO1cRr5-qY)
- 
+
 ## Communities
 * [Bots](https://www.facebook.com/groups/chatbot/) - Facebook group.
 * [UX for Bots](https://www.facebook.com/groups/uxforbots/) - Facebook group.
@@ -94,4 +95,3 @@ Table of Contents
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Vishnu Ks](http://www.vishnuks.com) has waived all copyright and related or neighboring rights to this work.
-
