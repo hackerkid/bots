@@ -76,7 +76,6 @@ Table of Contents
 * [Skype Bot Directory](https://bots.botframework.com/) - The official list of skype bots by Microsoft Bot Framework
 
 ## Tutorials
-* [A beginner’s guide to your first bot](https://slackhq.com/a-beginner-s-guide-to-your-first-bot-97e5b0b7843d#.b1rilkua8) 
 * [The Complete Beginner’s Guide To Chatbots.](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca).
 * [The Secret To Making Your Own Facebook Messenger Bot In Less Than 15 Minutes.](https://chatbotsmagazine.com/have-15-minutes-create-your-own-facebook-messenger-bot-481a7db54892)
 * [How to create a chatbot without coding a single line](https://chatbotsmagazine.com/how-to-create-a-chatbot-without-coding-a-single-line-e716840c7245#.kimh0igkz)
@@ -84,14 +83,15 @@ Table of Contents
 * [Creating A Chat Bot.](https://medium.freecodecamp.com/creating-a-chat-bot-42861e6a2acd#.32hmkqfq7)
 * [A Beginner’s Guide To Your First Bot.](https://slackhq.com/a-beginner-s-guide-to-your-first-bot-97e5b0b7843d#.rreq2dp6r)
 * [Pair Programming a Facebook Messenger Bot.](https://www.youtube.com/watch?v=zFO1cRr5-qY)
+* [A beginner’s guide to your first bot](https://slackhq.com/a-beginner-s-guide-to-your-first-bot-97e5b0b7843d#.b1rilkua8) 
 
 ## Communities
 * [Bots](https://www.facebook.com/groups/chatbot/) - Facebook group.
 * [UX for Bots](https://www.facebook.com/groups/uxforbots/) - Facebook group.
 * [Chat Bot Magazine](https://chatbotsmagazine.com/) - Medium.
 * [HH Bots](https://www.facebook.com/groups/hhbots/) - Facebook group.
-* [Bots India] (https://www.facebook.com/groups/648717978608835/ )  - Facebook group.
 * [Messenger Platform Developer Community](https://www.facebook.com/groups/242384196138564/) - Facebook group.
+* [Bots India](https://www.facebook.com/groups/648717978608835/) - Facebook group.
 
 ## License
 
