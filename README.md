@@ -93,6 +93,10 @@ Table of Contents
 * [Messenger Platform Developer Community](https://www.facebook.com/groups/242384196138564/) - Facebook group.
 * [Bots India](https://www.facebook.com/groups/648717978608835/) - Facebook group.
 
+## Conferences
+* [ChatbotConf] (https://chatbotconf.com/)
+* [Talkabot] (https://talkabot.ai/)
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
