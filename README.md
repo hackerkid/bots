@@ -50,7 +50,7 @@ Table of Contents
 * [BotKit](https://github.com/howdyai/botkit) - Botkit is a toolkit for making bot applications.
 * [Claudia Bot Builder](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda in minutes.
 * [Universal Bot Framework](https://bitbucket.org/phips28/universal-bot-framework/overview) - Create crossplatform chat bots for FB Messenger, Kik, Telegram and Skype with just one logic.
-
+* [Pandorabots](http://www.pandorabots.com/) - web service for building and deploying chatbots.
 
 ### Facebook Messenger
 * [Go](https://github.com/paked/messenger)
@@ -75,6 +75,7 @@ Table of Contents
 * [Product Hunt](https://www.producthunt.com/topics/bots) - Product Hunt bot list.
 * [Dashbot](http://www.dashbot.io/bots) - Dashbot bot directory.
 * [Skype Bot Directory](https://bots.botframework.com/) - The official list of skype bots by Microsoft Bot Framework
+* [Teamchat](http://www.teamchat.com/en/bot-store/) - Bot store by teamchat.
 
 ## Tutorials
 * [The Complete Beginner’s Guide To Chatbots.](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca).
