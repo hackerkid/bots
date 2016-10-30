@@ -10,6 +10,7 @@ Table of Contents
 
 - [Platform Documentation](#platform-documentation)
 - [Tools For Building Bots](#tools-for-building-bots)
+- [Tools For Bot Analytics](#tools-for-bot-analytics)
 - [Libraries](#libraries)
 - [Bot Stores](#bot-stores)
 - [Tutorials](#tutorials)
@@ -42,6 +43,10 @@ Table of Contents
 * [Gupshup](https://www.gupshup.io/developer/home) - Easiest & fastest way to build & deploy your bots on any channel.
 * [Haven OnDemand](https://dev.havenondemand.com/apis) - They are similar APIs as that of watson, but far well documented   and have a freemium version.
 * [Recast.AI](https://recast.ai) - Collaborative Bot Platform for developers: build conversational bots easily.
+
+## Tools For Bot Analytics
+* [Dialog](https://dialoganalytics.com/) - Chatbot analytics platform for marketers to drive user engagement, retention, conversion and understand behavior.
+* [Dashbot](https://www.dashbot.io/) - Actionable Bot Analytics: Increase user engagement, acquisition, and monetization.
 
 ## Libraries
 
