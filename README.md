@@ -50,8 +50,8 @@ Table of Contents
 * [Dashbot](https://www.dashbot.io/) - Actionable Bot Analytics: Increase user engagement, acquisition, and monetization.
 
 ## Tools For Bot Conversation Mockups
-* [Bot Conversation Mockup online](https://www.botsociety.io) - Make Bot conversation Mockups for presentation and demo
-* [Bot Sketch](https://dribbble.com/shots/2674603-Facebook-Messenger-UI-Kit-for-Chatbots-Sketch) - Sketch Chatbot UI *only for Mac*
+* [Bot Society](https://www.botsociety.io) - Bot conversation Mockups for presentation and demo.
+* [Bot Sketch](https://dribbble.com/shots/2674603-Facebook-Messenger-UI-Kit-for-Chatbots-Sketch) - Sketch Chatbot UI (Mac Only)
 
 ## Libraries
 
@@ -102,8 +102,7 @@ Table of Contents
 * [UX for Bots](https://www.facebook.com/groups/uxforbots/) - Facebook group.
 * [Chat Bot Magazine](https://chatbotsmagazine.com/) - Medium.
 * [HH Bots](https://www.facebook.com/groups/hhbots/) - Facebook group.
-* [Messenger Platform Developer Community](https://www.facebook.com/groups/242384196138564/) - Facebook group.
-* [Bots India](https://www.facebook.com/groups/648717978608835/) - Facebook group.
+* [Messenger Platform Developer Community](https://www.facebook.com/groups/242384196138564/) - Official Facebook group.
 
 ## Conferences
 * [ChatbotConf] (https://chatbotconf.com/)
