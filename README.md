@@ -50,7 +50,7 @@ Table of Contents
 * [Dashbot](https://www.dashbot.io/) - Actionable Bot Analytics: Increase user engagement, acquisition, and monetization.
 
 ## Tools For Bot Conversation Mockups
-* [Bot Conversation Mockup online](https://https://botsociety.io) - Make Bot conversation Mockups for presentation and demo
+* [Bot Conversation Mockup online](https://www.botsociety.io) - Make Bot conversation Mockups for presentation and demo
 * [Bot Sketch](https://dribbble.com/shots/2674603-Facebook-Messenger-UI-Kit-for-Chatbots-Sketch) - Sketch Chatbot UI *only for Mac*
 
 ## Libraries
