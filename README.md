@@ -11,6 +11,7 @@ Table of Contents
 - [Platform Documentation](#platform-documentation)
 - [Tools For Building Bots](#tools-for-building-bots)
 - [Tools For Bot Analytics](#tools-for-bot-analytics)
+- [Tools For Bot Conversation Mockups](#tools-for-bot-conversation-mockups)
 - [Libraries](#libraries)
 - [Bot Stores](#bot-stores)
 - [Tutorials](#tutorials)
@@ -47,6 +48,10 @@ Table of Contents
 ## Tools For Bot Analytics
 * [Dialog](https://dialoganalytics.com/) - Chatbot analytics platform for marketers to drive user engagement, retention, conversion and understand behavior.
 * [Dashbot](https://www.dashbot.io/) - Actionable Bot Analytics: Increase user engagement, acquisition, and monetization.
+
+## Tools For Bot Conversation Mockups
+* [Bot Conversation Mockup online](https://https://botsociety.io) - Make Bot conversation Mockups for presentation and demo
+* [Bot Sketch](https://dribbble.com/shots/2674603-Facebook-Messenger-UI-Kit-for-Chatbots-Sketch) - Sketch Chatbot UI *only for Mac*
 
 ## Libraries
 
