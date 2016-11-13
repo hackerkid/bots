@@ -46,6 +46,7 @@ Table of Contents
 * [Recast.AI](https://recast.ai) - Collaborative Bot Platform for developers: build conversational bots easily.
 
 ## Tools For Bot Analytics
+* [ChatMetrics]https://chatmetrics.io/) - Engagement platform for bots. ChatMetrics allows to reactivate inactive users and improve retention by sending "smart" notifications to users.
 * [Dialog](https://dialoganalytics.com/) - Chatbot analytics platform for marketers to drive user engagement, retention, conversion and understand behavior.
 * [Dashbot](https://www.dashbot.io/) - Actionable Bot Analytics: Increase user engagement, acquisition, and monetization.
 
