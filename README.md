@@ -49,6 +49,7 @@ Table of Contents
 * [ChatMetrics](https://chatmetrics.io/) - Engagement platform for bots. ChatMetrics allows to reactivate inactive users and improve retention by sending "smart" notifications to users.
 * [Dialog](https://dialoganalytics.com/) - Chatbot analytics platform for marketers to drive user engagement, retention, conversion and understand behavior.
 * [Dashbot](https://www.dashbot.io/) - Actionable Bot Analytics: Increase user engagement, acquisition, and monetization.
+* [Botmetrics](https://www.getbotmetrics.com/) - Grow and retain your chatbot customers. Enterprise grade opensource conversational analytics, marketing automation, and CRM rolled into a single snippet of code.
 
 ## Tools For Bot Conversation Mockups
 * [Bot Society](https://www.botsociety.io) - Bot conversation Mockups for presentation and demo.
