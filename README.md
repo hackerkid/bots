@@ -70,6 +70,7 @@ Table of Contents
 ### Slack
 * [Node.js (Official)](https://github.com/slackhq/node-slack-sdk)
 * [Python (Official)](https://github.com/slackhq/python-slackclient)
+* [Relax (scalable RTM library to scale to 1000's of teams)](https://github.com/zerobotlabs/relax)
 
 ### Telegram
 * [Node.js](https://github.com/yagop/node-telegram-bot-api)
