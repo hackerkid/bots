@@ -44,6 +44,7 @@ Table of Contents
 * [Gupshup](https://www.gupshup.io/developer/home) - Easiest & fastest way to build & deploy your bots on any channel.
 * [Haven OnDemand](https://dev.havenondemand.com/apis) - They are similar APIs as that of watson, but far well documented   and have a freemium version.
 * [Recast.AI](https://recast.ai) - Collaborative Bot Platform for developers: build conversational bots easily.
+* [ChatterBot](https://github.com/gunthercox/ChatterBot) - Machine-learning based conversational dialog engine build in Python
 
 ## Tools For Bot Analytics
 * [ChatMetrics](https://chatmetrics.io/) - Engagement platform for bots. ChatMetrics allows to reactivate inactive users and improve retention by sending "smart" notifications to users.
@@ -99,6 +100,7 @@ Table of Contents
 * [A Beginner’s Guide To Your First Bot.](https://slackhq.com/a-beginner-s-guide-to-your-first-bot-97e5b0b7843d#.rreq2dp6r)
 * [Pair Programming a Facebook Messenger Bot.](https://www.youtube.com/watch?v=zFO1cRr5-qY)
 * [A beginner’s guide to your first bot](https://slackhq.com/a-beginner-s-guide-to-your-first-bot-97e5b0b7843d#.b1rilkua8) 
+* [Facebook Chatbot Tutorial](https://github.com/AdrianKrebs/facebook-chatbot-tutorial)
 
 ## Communities
 * [Bots](https://www.facebook.com/groups/chatbot/) - Facebook group.
@@ -106,6 +108,7 @@ Table of Contents
 * [Chat Bot Magazine](https://chatbotsmagazine.com/) - Medium.
 * [HH Bots](https://www.facebook.com/groups/hhbots/) - Facebook group.
 * [Messenger Platform Developer Community](https://www.facebook.com/groups/242384196138564/) - Official Facebook group.
+* [Chatbots and Conversational Agents Quora Topic](https://www.quora.com/topic/Chatbots-and-Conversational-Agents)
 
 ## Conferences
 * [ChatbotConf] (https://chatbotconf.com/)
