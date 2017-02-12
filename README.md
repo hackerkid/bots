@@ -108,7 +108,7 @@ Table of Contents
 * [Chat Bot Magazine](https://chatbotsmagazine.com/) - Medium.
 * [HH Bots](https://www.facebook.com/groups/hhbots/) - Facebook group.
 * [Messenger Platform Developer Community](https://www.facebook.com/groups/242384196138564/) - Official Facebook group.
-* [Chatbots and Conversational Agents Quora Topic](https://www.quora.com/topic/Chatbots-and-Conversational-Agents)
+* [Chatbots and Conversational Agents](https://www.quora.com/topic/Chatbots-and-Conversational-Agents) - Quora Topic
 
 ## Conferences
 * [ChatbotConf] (https://chatbotconf.com/)
