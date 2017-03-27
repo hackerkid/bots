@@ -115,6 +115,7 @@ Table of Contents
 
 
 ## Bot Stores
+* [There is a bot for that](https://thereisabotforthat.com) - Search engine for bots
 * [ChatBottle](https://chatbottle.co/) - Chatbots search engine
 * [botlist](https://botlist.co/) - An App Store For Bots.
 * [Slack Store](https://decentralizedweb.slack.com/apps) - The official Slack bot store.
