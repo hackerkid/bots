@@ -102,6 +102,7 @@ Table of Contents
 * [Pair Programming a Facebook Messenger Bot.](https://www.youtube.com/watch?v=zFO1cRr5-qY)
 * [A beginner’s guide to your first bot](https://slackhq.com/a-beginner-s-guide-to-your-first-bot-97e5b0b7843d#.b1rilkua8) 
 * [Facebook Chatbot Tutorial](https://github.com/AdrianKrebs/facebook-chatbot-tutorial)
+* [Chatbot-Bootstrap-Kit](https://github.com/AdrianKrebs/chatbot-bootstrap)
 
 ## Communities
 * [Bots](https://www.facebook.com/groups/chatbot/) - Facebook group.
