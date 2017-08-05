@@ -58,6 +58,8 @@ Table of Contents
 * [Bot Society](https://www.botsociety.io) - Bot conversation Mockups for presentation and demo.
 * [Bot Sketch](https://dribbble.com/shots/2674603-Facebook-Messenger-UI-Kit-for-Chatbots-Sketch) - Sketch Chatbot UI (Mac Only)
 * [Botframe](https://botframe.com) - a playground to design bots (conversation mockups).
+* [Botmock](https://botmock.com) - Create conversation flows and interactive prototypes from a simple drag and drop editor, then share or test those prototypes and get feedback in one centralized location.
+
 
 ## Libraries
 
