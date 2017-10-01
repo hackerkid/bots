@@ -87,11 +87,26 @@ Table of Contents
 * [Go](https://github.com/tucnak/telebot)
 
 ### Discord
-* [Node.js](https://github.com/abalabahaha/eris)
-* [Node.js](https://github.com/hydrabolt/discord.js)
-* [C#](https://github.com/RogueException/Discord.Net)
-* [Python](https://github.com/Rapptz/discord.py)
-* [Java](https://github.com/DV8FromTheWorld/JDA/)
+###### Node.js
+* [Eris](https://github.com/abalabahaha/eris)
+* [Discord.js](https://github.com/hydrabolt/discord.js)
+* [Discordie](https://github.com/qeled/discordie)
+* [Discord.io](https://github.com/izy521/discord.io)
+
+###### C#
+* [Discord.Net](https://github.com/RogueException/Discord.Net)
+
+###### Python
+* [discord.py](https://github.com/Rapptz/discord.py)
+
+###### Java
+* [JDA](https://github.com/DV8FromTheWorld/JDA/)
+
+###### Rust
+* [Serenity](https://github.com/zeyla/serenity)
+
+###### Lua
+* [Discordia](https://github.com/SinisterRectus/Discordia)
 
 ## Bot Stores
 * [ChatBottle](https://chatbottle.co/) - Chatbots search engine
