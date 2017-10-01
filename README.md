@@ -144,6 +144,7 @@ Table of Contents
 
 ## Developers
 * [BotMakers](https://botmakers.net/) - The best place to hire chatbot developers
+* [Botgig](http://www.botgig.com/) - Hire a top chatbot dev from a vetted talent pool.
 
 ## License
 
