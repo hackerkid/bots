@@ -109,6 +109,11 @@ Table of Contents
 ###### Lua
 * [Discordia](https://github.com/SinisterRectus/Discordia)
 
+### Kik
+* [Python](https://github.com/kikinteractive/kik-python)
+* [Node.JS](https://github.com/kikinteractive/kik-node)
+
+
 ## Bot Stores
 * [ChatBottle](https://chatbottle.co/) - Chatbots search engine
 * [botlist](https://botlist.co/) - An App Store For Bots.
