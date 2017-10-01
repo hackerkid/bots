@@ -93,6 +93,11 @@ Table of Contents
 * [Python](https://github.com/Rapptz/discord.py)
 * [Java](https://github.com/DV8FromTheWorld/JDA/)
 
+### Kik
+* [Python](https://github.com/kikinteractive/kik-python)
+* [Node.JS](https://github.com/kikinteractive/kik-node)
+
+
 ## Bot Stores
 * [ChatBottle](https://chatbottle.co/) - Chatbots Search Engine
 * [botlist](https://botlist.co/) - An App Store For Bots.
