@@ -4,7 +4,7 @@
 <br>
 <br>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/hackerkid/bots.svg?branch=master)](https://travis-ci.org/hackerkid/bots) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Join the chat at https://gitter.im/hackerkid/bots](https://badges.gitter.im/hackerkid/bots.svg)](https://gitter.im/hackerkid/bots?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Join the chat at https://gitter.im/hackerkid/bots](https://badges.gitter.im/hackerkid/bots.svg)](https://gitter.im/hackerkid/bots?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Table of Contents
 -----------------
@@ -86,6 +86,28 @@ Table of Contents
 * [C#](https://github.com/MrRoundRobin/telegram.bot)
 * [Go](https://github.com/tucnak/telebot)
 
+### Discord
+###### Node.js
+* [Eris](https://github.com/abalabahaha/eris)
+* [Discord.js](https://github.com/hydrabolt/discord.js)
+* [Discordie](https://github.com/qeled/discordie)
+* [Discord.io](https://github.com/izy521/discord.io)
+
+###### C#
+* [Discord.Net](https://github.com/RogueException/Discord.Net)
+
+###### Python
+* [discord.py](https://github.com/Rapptz/discord.py)
+
+###### Java
+* [JDA](https://github.com/DV8FromTheWorld/JDA/)
+
+###### Rust
+* [Serenity](https://github.com/zeyla/serenity)
+
+###### Lua
+* [Discordia](https://github.com/SinisterRectus/Discordia)
+
 ## Bot Stores
 * [ChatBottle](https://chatbottle.co/) - Chatbots Search Engine
 * [botlist](https://botlist.co/) - An App Store For Bots.
@@ -95,6 +117,7 @@ Table of Contents
 * [Dashbot](http://www.dashbot.io/bots) - Dashbot bot directory.
 * [Skype Bot Directory](https://bots.botframework.com/) - The official list of skype bots by Microsoft Bot Framework
 * [Teamchat](http://www.teamchat.com/en/bot-store/) - Bot store by teamchat.
+* [Discord Bots](https://bots.discord.pw/) - An unofficial list of discord bots.
 * [Kik](https://bots.kik.com) - Offical bot store of Kik.
 
 ## Tutorials
@@ -115,6 +138,7 @@ Table of Contents
 * [HH Bots](https://www.facebook.com/groups/hhbots/) - Facebook group.
 * [Messenger Platform Developer Community](https://www.facebook.com/groups/242384196138564/) - Official Facebook group.
 * [Chatbots and Conversational Agents](https://www.quora.com/topic/Chatbots-and-Conversational-Agents) - Quora Topic
+* [Bot Developer Hangouts](http://dev4slack.xoxco.com/) - Community on Slack for all bot platforms.
 
 ## Conferences
 * [ChatbotConf](https://chatbotconf.com/)
@@ -122,6 +146,7 @@ Table of Contents
 
 ## Developers
 * [BotMakers](https://botmakers.net/) - The best place to hire chatbot developers
+* [Botgig](http://www.botgig.com/) - Hire a top chatbot dev from a vetted talent pool.
 
 ## License
 
