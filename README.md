@@ -70,6 +70,7 @@ Table of Contents
 * [Claudia Bot Builder](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda in minutes.
 * [Universal Bot Framework](https://bitbucket.org/phips28/universal-bot-framework/overview) - Create crossplatform chat bots for FB Messenger, Kik, Telegram and Skype with just one logic.
 * [Pandorabots](http://www.pandorabots.com/) - web service for building and deploying chatbots.
+* [Critter](https://github.com/oprypin/critter) - Chat bot relaying messages between IRC and Gitter
 
 ### Facebook Messenger
 * [Go](https://github.com/paked/messenger)
@@ -86,6 +87,7 @@ Table of Contents
 * [Python](https://github.com/python-telegram-bot/python-telegram-bot)
 * [C#](https://github.com/MrRoundRobin/telegram.bot)
 * [Go](https://github.com/tucnak/telebot)
+* [Crystal](https://github.com/hangyas/telegram_bot)
 
 ### Discord
 ###### Node.js
