@@ -18,6 +18,7 @@ Table of Contents
 - [Tutorials](#tutorials)
 - [Communities](#communities)
 - [Developers](#developers)
+- [Testing](#testing)
 
 ## Platform Documentation
 * [Facebook messenger](https://developers.facebook.com/products/messenger/)
@@ -140,6 +141,8 @@ Table of Contents
 * [Pair Programming a Facebook Messenger Bot.](https://www.youtube.com/watch?v=zFO1cRr5-qY)
 * [A beginner’s guide to your first bot](https://slackhq.com/a-beginner-s-guide-to-your-first-bot-97e5b0b7843d#.b1rilkua8) 
 * [Facebook Chatbot Tutorial](https://github.com/AdrianKrebs/facebook-chatbot-tutorial)
+* [Design Framework For Chatbots](https://chatbotsmagazine.com/design-framework-for-chatbots-aa27060c4ea3)
+* [UX of Chatbots](http://uxofchatbots.com/)
 
 ## Communities
 * [Bots](https://www.facebook.com/groups/chatbot/) - Facebook group.
@@ -157,6 +160,10 @@ Table of Contents
 ## Developers
 * [BotMakers](https://botmakers.net/) - The best place to hire chatbot developers
 * [Botgig](http://www.botgig.com/) - Hire a top chatbot dev from a vetted talent pool.
+
+## Testing
+* [ChatbotTest](http://chatbottest.com/) - Chatbottest is an open source guide that helps you identify chatbot's design issues under 7 different categories.
+* [BotTesting](http://bottesting.co/) - Test your bot! Send your email and bot link to us, we’ll examine your bot’s performance and usability
 
 ## License
 
