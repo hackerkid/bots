@@ -20,6 +20,7 @@ Table of Contents
 - [Developers](#developers)
 
 ## Platform Documentation
+* [IBM Bot Asset Exchange](https://developer.ibm.com/code/exchanges/bots/)
 * [Facebook messenger](https://developers.facebook.com/products/messenger/)
 * [Slack](https://api.slack.com/bot-users)
 * [Discord](https://blog.discordapp.com/the-robot-revolution-has-unofficially-begun/)
