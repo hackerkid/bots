@@ -71,18 +71,22 @@ Table of Contents
 * [Universal Bot Framework](https://bitbucket.org/phips28/universal-bot-framework/overview) - Create crossplatform chat bots for FB Messenger, Kik, Telegram and Skype with just one logic.
 * [Pandorabots](http://www.pandorabots.com/) - web service for building and deploying chatbots.
 * [Microsoft Bot Framework](http://docs.botframework.com) - Node.js/.NET library for building, connecting, testing, and deploying powerful and intelligent bots. 
+* [Bottender](https://github.com/Yoctol/bottender) - Make Bots in Your Way, Fast and Flexibly.
 
 ### Facebook Messenger
+* [Node.js](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-messenger)
 * [Go](https://github.com/paked/messenger)
 
 ### Slack
 * [Node.js (Official)](https://github.com/slackhq/node-slack-sdk)
+* [Node.js](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-slack)
 * [Python (Official)](https://github.com/slackhq/python-slackclient)
 * [Relax (scalable RTM library to scale to 1000's of teams)](https://github.com/zerobotlabs/relax)
 
 ### Telegram
 * [Node.js](https://github.com/yagop/node-telegram-bot-api)
 * [Node.js](https://github.com/telegraf/telegraf)
+* [Node.js](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-telegram)
 * [PHP](https://github.com/irazasyed/telegram-bot-sdk)
 * [Python](https://github.com/python-telegram-bot/python-telegram-bot)
 * [C#](https://github.com/MrRoundRobin/telegram.bot)
@@ -122,7 +126,7 @@ Table of Contents
 ## Bot Stores
 * [There is a bot for that](https://thereisabotforthat.com) - Search engine for bots
 * [ChatBottle](https://chatbottle.co/) - Chatbots search engine
-* [botlist](https://botlist.co/) - An App Store For Bots.
+* [BotList](https://botlist.co/) - An App Store For Bots.
 * [Slack Store](https://slack.com/apps) - The official Slack bot store.
 * [Telegram Store](https://storebot.me/) - The unofficial Telegram bot store.
 * [Product Hunt](https://www.producthunt.com/topics/bots) - Product Hunt bot list.
@@ -132,6 +136,8 @@ Table of Contents
 * [Discord Bots](https://bots.discord.pw/) - An unofficial list of discord bots.
 * [Discord Bot List](https://discordbots.org/) - An unofficial list of discord bots.
 * [Telegram Botlist](https://t.me/botlist) - A bot list for Telegram.
+* [Mayo Bot List](https://botlist.space/) - An unofficial list of discord bots.
+* [Terminal Bot List](https://ls.terminal.ink/) - An unofficial list of discord bots.
 
 ## Tutorials
 * [The Complete Beginner’s Guide To Chatbots.](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca).
