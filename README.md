@@ -38,7 +38,7 @@ Table of Contents
 ## Tools For Building Bots
 * [wit.ai ](https://wit.ai/) - Easily create text or voice based bots that humans can chat with.
 * [Botkit](https://howdy.ai/botkit/) - Botkit eases the process of designing and running bots that live inside Slack.
-* [api.ai](https://api.ai/) - Build brand-unique, natural language interactions for devices, applications and services.
+* [Dialogflow](https://dialogflow.com/) - Build natural and rich conversational experiences.
 * [Text It](https://textit.in/) - Visually build SMS and voice apps to engage your customers.
 * [Chatfuel](https://chatfuel.com/) - The intuitive bot builder with AI navigation. No coding required.
 * [Watson](http://www.ibm.com/cloud-computing/bluemix/watson/) - Bring the power of cognitive computing to your apps.
