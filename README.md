@@ -73,6 +73,7 @@ Table of Contents
 * [Universal Bot Framework](https://bitbucket.org/phips28/universal-bot-framework/overview) - Create crossplatform chat bots for FB Messenger, Kik, Telegram and Skype with just one logic.
 * [Pandorabots](http://www.pandorabots.com/) - web service for building and deploying chatbots.
 * [Bottender](https://github.com/Yoctol/bottender) - Make Bots in Your Way, Fast and Flexibly.
+* [BotMan](https://github.com/botman/botman) - PHP Bot Framework supporting over a dozen platforms (FB, Instagram, MS Bot Framework, etc)
 
 ### Facebook Messenger
 * [Node.js](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-messenger)
