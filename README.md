@@ -137,7 +137,7 @@ Table of Contents
 * [Discord Bots](https://bots.discord.pw/) - An unofficial list of discord bots.
 
 ## Tutorials
-* [The Complete Beginner’s Guide To Chatbots.](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca).
+* [The Complete Beginner’s Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca).
 * [The Secret To Making Your Own Facebook Messenger Bot In Less Than 15 Minutes.](https://chatbotsmagazine.com/have-15-minutes-create-your-own-facebook-messenger-bot-481a7db54892)
 * [How to create a chatbot without coding a single line](https://chatbotsmagazine.com/how-to-create-a-chatbot-without-coding-a-single-line-e716840c7245#.kimh0igkz)
 * [How To Build Bots for Messenger.](https://developers.facebook.com/blog/post/2016/04/12/bots-for-messenger/)
