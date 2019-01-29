@@ -73,6 +73,7 @@ Table of Contents
 * [Claudia Bot Builder](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda in minutes.
 * [Universal Bot Framework](https://bitbucket.org/phips28/universal-bot-framework/overview) - Create crossplatform chat bots for FB Messenger, Kik, Telegram and Skype with just one logic.
 * [Pandorabots](http://www.pandorabots.com/) - web service for building and deploying chatbots.
+* [Microsoft Bot Framework](http://docs.botframework.com) - Node.js/.NET library for building, connecting, testing, and deploying powerful and intelligent bots. 
 * [Bottender](https://github.com/Yoctol/bottender) - Make Bots in Your Way, Fast and Flexibly.
 * [BotMan](https://github.com/botman/botman) - PHP Bot Framework supporting over a dozen platforms (FB, Instagram, MS Bot Framework, etc)
 
@@ -129,14 +130,18 @@ Table of Contents
 ## Bot Stores
 * [There is a bot for that](https://thereisabotforthat.com) - Search engine for bots
 * [ChatBottle](https://chatbottle.co/) - Chatbots search engine
-* [botlist](https://botlist.co/) - An App Store For Bots.
-* [Slack Store](https://decentralizedweb.slack.com/apps) - The official Slack bot store.
-* [Telegram Store](https://storebot.me/) - The official Telegram bot store.
+* [BotList](https://botlist.co/) - An App Store For Bots.
+* [Slack Store](https://slack.com/apps) - The official Slack bot store.
+* [Telegram Store](https://storebot.me/) - The unofficial Telegram bot store.
 * [Product Hunt](https://www.producthunt.com/topics/bots) - Product Hunt bot list.
 * [Dashbot](http://www.dashbot.io/bots) - Dashbot bot directory.
 * [Skype Bot Directory](https://bots.botframework.com/) - The official list of skype bots by Microsoft Bot Framework
 * [Teamchat](http://www.teamchat.com/en/bot-store/) - Bot store by teamchat.
 * [Discord Bots](https://bots.discord.pw/) - An unofficial list of discord bots.
+* [Discord Bot List](https://discordbots.org/) - An unofficial list of discord bots.
+* [Telegram Botlist](https://t.me/botlist) - A bot list for Telegram.
+* [Mayo Bot List](https://botlist.space/) - An unofficial list of discord bots.
+* [Terminal Bot List](https://ls.terminal.ink/) - An unofficial list of discord bots.
 
 ## Tutorials
 * [The Complete Beginner’s Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca).
@@ -156,6 +161,8 @@ Table of Contents
 * [Messenger Platform Developer Community](https://www.facebook.com/groups/242384196138564/) - Official Facebook group.
 * [Chatbots and Conversational Agents](https://www.quora.com/topic/Chatbots-and-Conversational-Agents) - Quora Topic
 * [Bot Developer Hangouts](http://dev4slack.xoxco.com/) - Community on Slack for all bot platforms.
+* [BotList Chat](http://t.me/botlistchat) - Telegram group.
+* [Bot Development](http://t.me/botdevelopment) - Telegram group.
 
 ## Conferences
 * [ChatbotConf](https://chatbotconf.com/)
