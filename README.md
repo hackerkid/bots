@@ -53,6 +53,7 @@ Table of Contents
 * [ChatterBot](https://github.com/gunthercox/ChatterBot) - Machine-learning based conversational dialog engine build in Python
 * [Google Cloud Platform](https://cloud.google.com/natural-language) - Use sentiment analysis on a block of text to add decision tree logic for a conversation bot.
 * [Messenger Demo Viewer](https://messenger-demo-viewer.kilianvalkhof.com/) - Demo FB Messenger bots without showing personal chats
+* [BotStar](https://www.botstar.com/) - Powerful platform for designing & developing chatbots visually with smart training.
 
 ## Tools For Bot Analytics
 * [ChatMetrics](https://chatmetrics.io/) - Engagement platform for bots. ChatMetrics allows to reactivate inactive users and improve retention by sending "smart" notifications to users.
@@ -65,6 +66,7 @@ Table of Contents
 * [Bot Sketch](https://dribbble.com/shots/2674603-Facebook-Messenger-UI-Kit-for-Chatbots-Sketch) - Sketch Chatbot UI (Mac Only)
 * [Botframe](https://botframe.com) - a playground to design bots (conversation mockups).
 * [Botmock](https://botmock.com) - Create conversation flows and interactive prototypes from a simple drag and drop editor, then share or test those prototypes and get feedback in one centralized location.
+* [BotStar](https://www.botstar.com) - A fullfledged chatbot platform but the visual editor can be used as a mockup tool as well.
 
 
 ## Libraries
