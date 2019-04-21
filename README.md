@@ -99,6 +99,7 @@ Table of Contents
 * [Python](https://github.com/python-telegram-bot/python-telegram-bot)
 * [C#](https://github.com/MrRoundRobin/telegram.bot)
 * [Go](https://github.com/tucnak/telebot)
+* [Java](https://github.com/pengrad/java-telegram-bot-api)
 
 ### Discord
 ###### Node.js
