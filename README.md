@@ -36,6 +36,7 @@ Table of Contents
 * [Microsoft Bot Framework](https://dev.botframework.com/)
 * [WeChat](https://admin.wechat.com/)
 * [VKontakte](https://new.vk.com/dev/bizmessages)
+* [Hangouts Chat](https://developers.google.com/hangouts/chat/concepts/)
 
 ## Tools For Building Bots
 * [wit.ai ](https://wit.ai/) - Easily create text or voice based bots that humans can chat with.
