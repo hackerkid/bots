@@ -39,6 +39,7 @@ Table of Contents
 * [Hangouts Chat](https://developers.google.com/hangouts/chat/concepts/)
 
 ## Tools For Building Bots
+* [Probot](https://probot.github.io/) - Probot is a framework for building GitHub Apps in Node.js.
 * [wit.ai ](https://wit.ai/) - Easily create text or voice based bots that humans can chat with.
 * [Botkit](https://howdy.ai/botkit/) - Botkit eases the process of designing and running bots that live inside Slack.
 * [Dialogflow](https://dialogflow.com/) - Build natural and rich conversational experiences.
