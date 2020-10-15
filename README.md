@@ -4,12 +4,10 @@
 <br>
 
 
-<center>
-<h2>
+<h2  align="center">
 🔥🔥
 Check out my latest project - <a href="https://diff.blog">diff.blog</a>
 </h2>
-</center>
 
 <br>
 
