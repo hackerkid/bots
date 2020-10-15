@@ -2,11 +2,18 @@
   <img src="bots3d.png" />
 </p>
 <br>
+
+
+<center>
+<h2>
+🔥🔥
+Check out my latest project - <a href="https://diff.blog">diff.blog</a>
+</h2>
+</center>
+
 <br>
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Join the chat at https://gitter.im/hackerkid/bots](https://badges.gitter.im/hackerkid/bots.svg)](https://gitter.im/hackerkid/bots?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-![diff.blog](banner2.png)
 
 Table of Contents
 -----------------
