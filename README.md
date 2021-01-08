@@ -149,6 +149,7 @@ Table of Contents
 * [Dashbot](http://www.dashbot.io/bots) - Dashbot bot directory.
 * [Skype Bot Directory](https://bots.botframework.com/) - The official list of skype bots by Microsoft Bot Framework
 * [Teamchat](http://www.teamchat.com/en/bot-store/) - Bot store by teamchat.
+* [Top Discord Bots](https://top-bots.xyz) - An unofficial list of discord bots.
 * [Discord Bots](https://bots.discord.pw/) - An unofficial list of discord bots.
 * [Discord Bot List](https://discordbots.org/) - An unofficial list of discord bots.
 * [Telegram Botlist](https://t.me/botlist) - A bot list for Telegram.
@@ -170,6 +171,7 @@ Table of Contents
 ## Communities
 * [Bots](https://www.facebook.com/groups/chatbot/) - Facebook group.
 * [UX for Bots](https://www.facebook.com/groups/uxforbots/) - Facebook group.
+* [Top Bots Chat](https://discord.com/invite/CppuRvB) - Discord server.
 * [Chat Bot Magazine](https://chatbotsmagazine.com/) - Medium.
 * [HH Bots](https://www.facebook.com/groups/hhbots/) - Facebook group.
 * [Messenger Platform Developer Community](https://www.facebook.com/groups/242384196138564/) - Official Facebook group.
