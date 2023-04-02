@@ -157,6 +157,7 @@ Table of Contents
 * [Telegram Botlist](https://t.me/botlist) - A bot list for Telegram.
 * [Mayo Bot List](https://botlist.space/) - An unofficial list of discord bots.
 * [Terminal Bot List](https://ls.terminal.ink/) - An unofficial list of discord bots.
+* [BotList.net](https://botlist.net/) - A list of bots for Discord, Telegram, Line, Skype and more.
 
 ## Tutorials
 * [The Complete Beginner’s Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca).
